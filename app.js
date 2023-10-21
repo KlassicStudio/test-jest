@@ -28,9 +28,9 @@ const sum = (a,b) => {
     return a + b
 }
 
-// This is my function that sums two numbers
+// This is my subtraction function
 const subtract = (a,b) => {
-    return a - b + 1
+    return a - b + 1;
 
 }
 
