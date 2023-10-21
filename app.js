@@ -28,6 +28,12 @@ const sum = (a,b) => {
     return a + b
 }
 
+// This is my function that sums two numbers
+const subtract = (a,b) => {
+    return a - b + 1
+
+}
+
 // Just a console log for ourselves
 console.log(sum(7,3))
 
